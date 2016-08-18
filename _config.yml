@@ -1,0 +1,14 @@
+layout_spectrum: 0.999521957943216
+typography_spectrum: 0.3451061313971877
+color:
+  brandStrength: 0.2976844541262835
+  lightness: 0.33234042092226446
+  saturation: 0.10765772219747305
+  rhythmicContrast: 0.03458905476145446
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Andrew Wang
